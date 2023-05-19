@@ -10,7 +10,7 @@ const Testimonials = () => {
         <span>say about us</span>
       </div>
       <div className="right-t"></div>
-    </div>
+    </div> 
   );
 };
 
