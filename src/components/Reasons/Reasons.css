@@ -4,11 +4,12 @@
     gap: 2rem;
 }
 .left-r{
-    flex:1 1;
+    grid-gap: 1rem;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    flex: 1 1;
     gap: 1rem;
     grid-auto-rows: 1fr;
+    grid-template-columns: repeat(3,1fr)
 }
 .left-r>img{
     object-fit: cover;

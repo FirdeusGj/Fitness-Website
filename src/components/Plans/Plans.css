@@ -19,6 +19,7 @@
     gap: 2rem;
     padding: 1.5rem;
     width: 15rem;
+    background: var(--caloryCard);
 }
 .plan:nth-child(2){
     background: var(--planCard);
