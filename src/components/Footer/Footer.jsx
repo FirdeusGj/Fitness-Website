@@ -15,9 +15,9 @@ const Footer = () => {
           <img src={Instagram} alt="" />
           <img src={LinkedIn} alt="" />
         </div>
-      </div>
-      <div className="logo-f">
-        <img src={Logo} alt="" />
+        <div className="logo-f">
+          <img src={Logo}/>
+        </div>
       </div>
     </div>
   );
